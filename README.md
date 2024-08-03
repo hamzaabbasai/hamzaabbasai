@@ -15,7 +15,7 @@ I'm passionate about leveraging data-driven solutions in the cloud and crafting 
 
 ## 📫 Reach Me
 
-- 💼 LinkedIn: [[hamzaabbasai](https://www.linkedin.com/in/hamzaabbasai)
+- 💼 LinkedIn: [hamzaabbasai](https://www.linkedin.com/in/hamzaabbasai)
 - 🐦 Twitter:  [@hamzaabbasai](https://twitter.com/hamzaabbasai)
 
 
