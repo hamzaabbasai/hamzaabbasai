@@ -63,13 +63,10 @@ Experienced in AI/ML Engineering, Cloud Deployment, and Full-Stack Development. 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hamzaabbasai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="vertical-align:middle;"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40" style="border-radius: 50%; background-color: #0A66C2;" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/hamzaabbasai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" alt="X" width="30" height="30" style="vertical-align:middle;"/>
+  <a href="https://x.com/hamzaabbasai" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="X (Twitter)" width="40" height="40" style="border-radius: 50%; background-color: #000000;" />
   </a>
 </p>
-
-
-
